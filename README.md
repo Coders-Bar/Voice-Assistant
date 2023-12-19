@@ -1,7 +1,8 @@
 # Voice-Assistant
 # Jarvis
 Simple Jarvis voice assistant in Python language.
-Tasks it will perform
+
+Tasks it will perform:-
 1. Greetings
 2. Self Information
 3. Web Browsing
@@ -16,7 +17,7 @@ Tasks it will perform
 12. Email Sending
 13. Time & Calendar
 
-Note: In Linux Environment "espeak" is used for speaking purposes but in case of Windows Environment use "sapi5" instead of espeak.
+Note: For Linux Environment "espeak" is used for speaking purposes but in case of Windows Environment use "sapi5" instead of "espeak".
 
 Requirement: Python3, pip3.
 
