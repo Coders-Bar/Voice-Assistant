@@ -28,3 +28,6 @@ API requirement: Open weather map API, news API, Google Maps API
 Please input the voice ID number in (voices[--].id)
 
 Just run the Jarvis.py in the terminal and this assistant is good to go...
+
+
+This software is not subject to copyright protection and is in the public domain. This software can be redistributed and/or modified freely provided that any derivative works bear some notice that they are derived from it, and any modified versions bear some notice that they have been modified.
