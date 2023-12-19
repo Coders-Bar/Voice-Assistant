@@ -19,6 +19,7 @@ Tasks it will perform
 Note: In Linux Environment "espeak" is used for speaking purposes but in case of Windows Environment use "sapi5" instead of espeak.
 
 Requirement: Python3, pip3.
+
 PIP modules: pyttsx33, alsaaudio, speech recognition, date time, Wikipedia, web browser, os, system, smtplib, requests, googlemaps, cv2, newsapi, goslate
 
 API requirement: Open weather map API, news API, Google Maps API
